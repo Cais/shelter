@@ -1,8 +1,24 @@
-==== Changelog ====
-* As of April 12, 2012
+=== Ground Floor ===
+== Version 1.9 ==
+Changelog: April 16, 2012
+= Code =
+* Removed `bns-menu` function as no longer required.
 
-=== Version 0.2 ===
+= CSS =
+
+= Miscellaneous =
+
+= Internet Browsers Reviewed =
+* Chrome v18.0
+* Firefox v11.0
+* Internet Explorer v9.0
+* Opera v11.61
+* Safari v5.1.5
+
+/** ------------------------------------------------------------------------- */
+
+== Version 0.2 ==
 * changelog.txt created
 
-=== Version 0.1 ===
+== Version 0.1 ==
 * Initial release.
