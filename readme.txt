@@ -1,5 +1,5 @@
 ==== Readme.txt ====
-Last revised April 16, 2012
+Last revised April 19, 2012
 
 === Contents ===
 * Notes
@@ -19,3 +19,4 @@ Last revised April 16, 2012
 * Moved to separate file at version 0.2
 
 === Review Tickets ===
+* http://themes.trac.wordpress.org/ticket/7447 - version 1.9.1
