@@ -1,12 +1,11 @@
 === Ground Floor ===
 == Version 1.9 ==
-Changelog: April 16, 2012
+Changelog: April 19, 2012
 = Code =
 * Removed `bns-menu` function as no longer required.
 
-= CSS =
-
 = Miscellaneous =
+* Matched to Parent-Theme Ground Floor v1.9
 
 = Internet Browsers Reviewed =
 * Chrome v18.0
