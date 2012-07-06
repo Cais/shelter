@@ -1,5 +1,5 @@
 ==== Readme.txt ====
-Last revised April 19, 2012
+Last revised July 6, 2012 at version 2.0
 
 === Contents ===
 * Notes
@@ -9,8 +9,8 @@ Last revised April 19, 2012
 
 === Notes ===
 * The Theme does not use an image in the header
-* 'functions.php' is for all intent and purpose an empty file used to clear previous theme versions
-* NB: There is no method to remove a template file except to delete the theme and all its files; then re-install it.
+* NB: There is no method to remove a template file except to delete the theme
+and all its files; then re-install it.
 
 === TO-DO ===
 [x] Change Child-Theme i18n to more generic code? v0.2

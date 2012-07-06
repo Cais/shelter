@@ -1,4 +1,19 @@
 === Ground Floor ===
+== Version 2.0 ==
+= Code =
+* Documentation clean up and version change to match Parent-Theme: Ground Floor
+
+= Miscellaneous =
+* Remove 'functions.php' in case it is being used in a Child-Theme already
+
+= Internet Browsers Reviewed =
+* Apple Safari v5.1.7
+* Firefox v13.0.1
+* Google Chrome v20.0
+* Internet Explorer v9.0
+* Opera v12.0
+
+/** ------------------------------------------------------------------------- */
 == Version 1.9 ==
 Changelog: April 19, 2012
 = Code =
@@ -7,15 +22,7 @@ Changelog: April 19, 2012
 = Miscellaneous =
 * Matched to Parent-Theme Ground Floor v1.9
 
-= Internet Browsers Reviewed =
-* Chrome v18.0
-* Firefox v11.0
-* Internet Explorer v9.0
-* Opera v11.61
-* Safari v5.1.5
-
 /** ------------------------------------------------------------------------- */
-
 == Version 0.2 ==
 * changelog.txt created
 

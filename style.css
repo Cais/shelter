@@ -2,42 +2,52 @@
 Theme Name: Shelter
 Theme URI: http://buynowshop.com/themes/ground-floor/
 Description: Child-Theme of Ground Floor - Richly toned wood floor background with bare-earth colored widgetized sidebar and footer (six widget areas in total, as shown on the included widget-map.png). A strong theme to begin with; grow into; and, build on.
-Version: 1.9.1
-WordPress Required Version: 3.0
+Version: 2.0
+WordPress Required Version: 3.4
 Tested Up To: 3.4
 Author: Edward Caissie
 Author URI: http://edwardcaissie.com/
 Template: ground-floor
-Template Version: 1.9.1
+Template Version: 2.0
 Tags: brown, red, tan, light, two-columns, left-sidebar, fixed-width, threaded-comments, sticky-post, translation-ready
 */
 
-/*  Copyright 2011-2012  Edward Caissie  (email : edward.caissie@gmail.com)
+/**
+ * Copyright 2011-2012  Edward Caissie  (email : edward.caissie@gmail.com)
+ *
+ * This program is free software; you can redistribute it and/or modify it under
+ * the terms of the GNU General Public License version 2, as published by the
+ * Free Software Foundation.
+ *
+ * You may NOT assume that you can use any other version of the GPL.
+ *
+ * This program is distributed in the hope that it will be useful, but WITHOUT
+ * ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+ * FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU General Public License along with
+ * this program; if not, write to the
+ *
+ *      Free Software Foundation, Inc.,
+ *      51 Franklin St, Fifth Floor,
+ *      Boston, MA  02110-1301  USA
+ *
+ * The license for this software can also likely be found here:
+ * http://www.gnu.org/licenses/gpl-2.0.html
+ */
 
-    This program is free software; you can redistribute it and/or modify
-    it under the terms of the GNU General Public License version 2, 
-    as published by the Free Software Foundation. 
-    
-    You may NOT assume that you can use any other version of the GPL.
-
-    This program is distributed in the hope that it will be useful,
-    but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-    GNU General Public License for more details.
-    
-    You should have received a copy of the GNU General Public License
-    along with this program; if not, write to the Free Software
-    Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
-    
-    The license for this software can also likely be found here: 
-    http://www.gnu.org/licenses/gpl-2.0.html
-*/
+/**
+ * NB: This is currently a CSS only Child-Theme; the WordPress version is not
+ * currently relevant for implementing this.
+ */
 
 @import url( ../ground-floor/style.css );
 
-/*  Significant changes from Ground Floor theme:
-*   - move sidebar from right to left   
-**/
+/**
+ * Significant changes from Ground Floor theme:
+ * - move sidebar from right to left
+ **/
 
 /* -- Layout -- */
 #main-blog {
