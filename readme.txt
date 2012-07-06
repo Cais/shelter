@@ -20,3 +20,4 @@ and all its files; then re-install it.
 
 === Review Tickets ===
 * http://themes.trac.wordpress.org/ticket/7447 - version 1.9.1
+* http://themes.trac.wordpress.org/ticket/8517 - version 2.0
