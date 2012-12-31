@@ -1,6 +1,7 @@
-=== Ground Floor ===
+=== Shelter ===
 == Version 2.1 ==
 * Update version to match Parent-Theme Ground Floor
+* Corrected title used in this file
 
 = Current Internet Browsers Reviewed =
 * Apple Safari
