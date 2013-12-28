@@ -24,3 +24,4 @@ and all its files; then re-install it.
 * http://themes.trac.wordpress.org/ticket/7447 - version 1.9.1
 * http://themes.trac.wordpress.org/ticket/8517 - version 2.0
 * http://themes.trac.wordpress.org/ticket/11204 - version 2.0.1
+* http://themes.trac.wordpress.org/ticket/15894 - version 2.0.2 - December 28, 2013
