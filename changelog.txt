@@ -1,15 +1,12 @@
 === Shelter ===
-Last revised February 15, 2013
+Last revised December 28, 2013
+== Version 2.0.2 ==
+* Internal documentation updates noting current compatibilities
+
+/** ------------------------------------------------------------------------- */
 == Version 2.0.1 ==
 * Corrected title used in this file
 * Modify 'style.css' header block details to match core trac ticket #16868
-
-= Current Internet Browsers Reviewed =
-* Apple Safari
-* Firefox
-* Google Chrome
-* Internet Explorer
-* Opera
 
 /** ------------------------------------------------------------------------- */
 == Version 2.0 ==

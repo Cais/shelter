@@ -2,13 +2,13 @@
 Theme Name: Shelter
 Theme URI: http://buynowshop.com/themes/ground-floor/
 Description: Child-Theme of Ground Floor - Richly toned wood floor background with bare-earth colored widgetized sidebar and footer (six widget areas in total, as shown on the included widget-map.png). A strong theme to begin with; grow into; and, build on.
-Version: 2.0.1
+Version: 2.0.2
 WordPress Required Version: 3.4
-WordPress Tested Version: 3.5.1
+WordPress Tested Version: 3.8.1
 Author: Edward Caissie
 Author URI: http://edwardcaissie.com/
 Template: ground-floor
-Template Version: 2.1
+Template Version: 2.2.2
 Tags: brown, red, tan, light, two-columns, left-sidebar, fixed-width, threaded-comments, sticky-post, translation-ready
 */
 
@@ -41,8 +41,7 @@ Tags: brown, red, tan, light, two-columns, left-sidebar, fixed-width, threaded-c
  * NB: This is currently a CSS only Child-Theme; the WordPress Required Version
  * and WordPress Tested Version are not relevant for implementation at this time
  */
-
-@import url( ../ground-floor/style.css );
+@import url(../ground-floor/style.css);
 
 /**
  * Significant changes from Ground Floor theme:
@@ -51,44 +50,47 @@ Tags: brown, red, tan, light, two-columns, left-sidebar, fixed-width, threaded-c
 
 /* -- Layout -- */
 #main-blog {
-    float:right;
-    margin:0 0 0 -330px;
-    width:100%;
+	float: right;
+	margin: 0 0 0 -330px;
+	width: 100%;
 }
+
 #content {
-    margin:0 0 0 330px;
-    padding: 10px;
+	margin: 0 0 0 330px;
+	padding: 10px;
 }
+
 #sidebar {
-    float:left;
-    overflow:hidden;
-    width:320px;
+	float: left;
+	overflow: hidden;
+	width: 320px;
 }
+
 /* ---- */
 
 body {
-  color: #F5E5C5;
-  font-family: "Trebuchet MS", Helvetica, Jamrul, sans-serif;
-  font-size: 16px;
+	color: #F5E5C5;
+	font-family: "Trebuchet MS", Helvetica, Jamrul, sans-serif;
+	font-size: 16px;
 }
 
 #blog-description {
-  color: #ECCFA0;
-  font-family: "Lucida Calligraphy", "Zapf Chancery", cursive, serif;
-  font-size: 13px;
-  padding-bottom: 10px;
+	color: #ECCFA0;
+	font-family: "Lucida Calligraphy", "Zapf Chancery", cursive, serif;
+	font-size: 13px;
+	padding-bottom: 10px;
 }
 
 .post dl dd.wp-caption-dd {
-  margin-left: 0;
-  color: #784800;
+	margin-left: 0;
+	color: #784800;
 }
 
 .wp-caption p.wp-caption-text {
-  color: #784800;
+	color: #784800;
 }
 
 #top-menu ul li a {
-  font-size: 16px;
-  font-weight: normal;
+	font-size: 16px;
+	font-weight: normal;
 }

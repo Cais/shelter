@@ -1,6 +1,6 @@
 ==== Readme.txt ====
-@version    2.0.1
-@date       February 17, 2013
+@version    2.0.2
+@date       December 28, 2013
 
 === Contents ===
 * Notes
