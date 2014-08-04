@@ -2,18 +2,17 @@
 Theme Name: Shelter
 Theme URI: http://buynowshop.com/themes/ground-floor/
 Description: Child-Theme of Ground Floor - Richly toned wood floor background with bare-earth colored widgetized sidebar and footer (six widget areas in total, as shown on the included widget-map.png). A strong theme to begin with; grow into; and, build on.
-Version: 2.0.2
+Version: 2.0.3
 WordPress Required Version: 3.4
-WordPress Tested Version: 3.8.1
+WordPress Tested Version: 4.0
 Author: Edward Caissie
 Author URI: http://edwardcaissie.com/
 Template: ground-floor
 Template Version: 2.2.2
 Tags: brown, red, tan, light, two-columns, left-sidebar, fixed-width, threaded-comments, sticky-post, translation-ready
 */
-
 /**
- * Copyright 2011-2013  Edward Caissie  (email : edward.caissie@gmail.com)
+ * Copyright 2011-2014  Edward Caissie  (email : edward.caissie@gmail.com)
  *
  * This program is free software; you can redistribute it and/or modify it
  * under the terms of the GNU General Public License version 2, as published
@@ -36,7 +35,6 @@ Tags: brown, red, tan, light, two-columns, left-sidebar, fixed-width, threaded-c
  * The license for this software can also likely be found here:
  * http://www.gnu.org/licenses/gpl-2.0.html
  */
-
 /**
  * NB: This is currently a CSS only Child-Theme; the WordPress Required Version
  * and WordPress Tested Version are not relevant for implementation at this time

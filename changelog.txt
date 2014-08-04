@@ -1,5 +1,10 @@
 === Shelter ===
-Last revised December 28, 2013
+Last revised August 4, 2014
+== Version 2.0.3 ==
+* Updated copyright years
+* Updated `screenshot.png` to 880x660 size
+
+/** ------------------------------------------------------------------------- */
 == Version 2.0.2 ==
 * Internal documentation updates noting current compatibilities
 
