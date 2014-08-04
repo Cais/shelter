@@ -1,6 +1,6 @@
 ==== Readme.txt ====
-@version    2.0.2
-@date       December 28, 2013
+@version    2.0.3
+@date       August 4, 2014
 
 === Contents ===
 * Notes
@@ -25,3 +25,4 @@ and all its files; then re-install it.
 * http://themes.trac.wordpress.org/ticket/8517 - version 2.0
 * http://themes.trac.wordpress.org/ticket/11204 - version 2.0.1
 * http://themes.trac.wordpress.org/ticket/15894 - version 2.0.2 - December 28, 2013
+* https://themes.trac.wordpress.org/ticket/20077 - version 2.0.3 - August 4, 2014
